@@ -44,6 +44,7 @@ public class RPGCharacter {
         Atk = calculateAtk();
     }
 
+
     public void equipSword(Sword sword){
         equippedSword = sword;
     }
